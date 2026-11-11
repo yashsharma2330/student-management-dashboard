@@ -59,25 +59,20 @@ A responsive admin dashboard built with **React.js** and **Tailwind CSS** to man
 
 Install [Node.js](https://nodejs.org/) and npm.
 
-### 1. Clone the repository
 
-```bash
-git clone https://github.com/yashsharma2330/student-management-dashboard.git
-```
-
-### 2. Open the project folder
+### 1. Open the project folder
 
 ```bash
 cd react-project
 ```
 
-### 3. Install dependencies
+### 2. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 4. Start the development server
+### 3. Start the development server
 
 ```bash
 npm run dev
